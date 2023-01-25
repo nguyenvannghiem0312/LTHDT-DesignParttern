@@ -1,0 +1,10 @@
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\bin\Debug\TemplateMethodandMemento.exe.config
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\bin\Debug\TemplateMethodandMemento.exe
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\bin\Debug\TemplateMethodandMemento.pdb
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\obj\Debug\TemplateMethodandMemento.csproj.AssemblyReference.cache
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\obj\Debug\TemplateMethodandMemento.Form1.resources
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\obj\Debug\TemplateMethodandMemento.Properties.Resources.resources
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\obj\Debug\TemplateMethodandMemento.csproj.GenerateResource.cache
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\obj\Debug\TemplateMethodandMemento.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\obj\Debug\TemplateMethodandMemento.exe
+C:\Users\Nguyen Nghiem\source\repos\TemplateMethodandMemento\TemplateMethodandMemento\obj\Debug\TemplateMethodandMemento.pdb
